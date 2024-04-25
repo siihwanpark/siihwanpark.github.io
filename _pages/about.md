@@ -9,26 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://sites.google.com/site/yangeh/publications).
+I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang]([https://sites.google.com/site/yangeh/publications](https://scholar.google.com/citations?user=UWO1mloAAAAJ)).
 
-My research interest includes:
-- 
-- Post-hoc analysis & applications of pre-traiend models (especially, Foundation Models).
-- Generalization of deep learning via the lens of loss landscape.
-- Bayesian deep learning (especially, Laplace Approximation).
-- Explainability and interpretability of large-scale neural networks.
+**Generalization and Optimization in Deep Learning**\\
+My research focus encompasses a fundamental understanding of the generalization and optimization of deep learning models through the lens of loss landscape, alongside the advancement of learning algorithms based on this insight. I have conducted studies on the scale-invariance of sharpness in the loss landscape, widely recognized as a proxy for the generalization performance of deep learning models, and investigated the reasons behind the effective performance of sharpness-aware minimization from the perspectives of escaping local optima and convergence at asymmetric valleys. Recently, my research interest focus extending and applying the fundamental findings to new architectural frameworks, *e.g.* LoRA finetuning for LLMs.
 
-
-## Education
-
-- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
-*Sep. 2022 - Present*
-  
-- **M.S.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
-*Sep. 2020 - Aug. 2022*
-
-- **B.S.** in Computer Science & Mathematical Science, <a href="https://cs.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
-*Mar. 2015 - Aug. 2020*
+**Large Language Models**\\
+My primary research interest in large language models falls into two branches following: 1) **Light-weightening**. It aims at reducing the size of large language models or enhancing their inference speed. Currently, I'm working on sub 4-bit post-training quantization and speculative deconding. 2) **Fine-tuning**. My recent research efforts have been dedicated to improving fine-tuning performance of quantized models. The research objective is to establish a quantization algorithm for large language models that can adapt in conjunction with the fine-tuning objective, moving beyond data-free or general corpus data-driven quantization.
 
 
 ## Published Papers
@@ -58,13 +45,43 @@ Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
 Sung-Yub Kim, <u>Sihwan Park</u>, Yong-Deok Kim, Eunho Yang
 
 
+## Experiences
+- Research Intern, **Computer Architecture and Systems Lab, KAIST**, Daejeon, <font size="3">Aug. 2019 - Dec. 2019</font>
+  - Advisor: [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/)
+  - Low-level security techniques of Intel SGX and secure container with KVSSD
+
+- Research Intern, **Collaborative Distributed Systems and Networking Lab, KAIST**, Daejeon, <font size="3">Jan. 2018 - Oct. 2018</font>
+  - Advisor : [Prof. Dongman Lee](http://143.248.55.123/cdsn/?p=29)
+  - Signal data processing for IoT task recognition and framework for task segmentation
+
+- Exchange Student, **University of California, Santa Cruz**, Santa Cruz, CA, <font size="3">Jun. 2019 - Aug. 2019</font>
+  - Software engineering and computer game basics
+    
+## Education
+
+- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+*Sep. 2022 - Present*
+  
+- **M.S.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+*Sep. 2020 - Aug. 2022*
+
+- **B.S.** in Computer Science and Mathematical Science, <a href="https://cs.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+*Mar. 2015 - Aug. 2020*
+
 ## Projects
 
-- A study on adaptive point and regional OOD detection techniques based on sub-task generation \\
-**Samsung**, *2021-Present*
+- Sub-task generation based point/regional Out-Of-Distribution detection \\
+**Samsung Electronics**, *Mar.2021-Sep.2025*
 
+- Predicting graph properties with few labels using Graph Neural Networks \\
+**Samsung Electronics**, *Mar.2021-Sep.2025*
+
+- A Study on Statistically and Computationally Efficient Parameter Structures for Machine Learning Algorithms \\
+**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2021-Dec.2022*
+  
 - A Study on Optimization and Network Interpretation Method for Large-Scale Machine Learning \\
-**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *2022-2023*
+**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2023-Feb.2027*
 
 - A Study on Conversational Large Language Models for Virtual Physicians \\
-**AITRICS**, *2024-Present*
+**AITRICS**, *Apr.2024-May.2024*
+
