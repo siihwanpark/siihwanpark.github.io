@@ -20,19 +20,19 @@ My primary research interest in large language models falls into two branches fo
 
 ## Published Papers
 
-- <a href="../assets/papers/Scalable_task_segmentation_method_based_on_change_point_dectection_of_multi-sensors_in_smart_spaces.pdf">
+- <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
 *ICLR, 2023 (Spotlighted)*
 
-- <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1044772&se=t0&ty=B&_csrf=3d67e4ff-5451-40a9-8449-915d23da4294">
+- <a href="../assets/papers/master_thesis.pdf">
 **On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**
 </a> \\
 <u>Sihwan Park</u> advised by Eunho Yang \\
 *Master's Thesis, KAIST, 2022*
 
-- <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503488">
+- <a href="../assets/papers/paper1.pdf">
 **Scalable Task Segmentation Method Based on Change Point Detection of Multi-sensors in Smart Spaces**
 </a> \\
 <u>Sihwan Park</u>, Hyunju Kim, Dongman Lee \\
@@ -40,7 +40,7 @@ Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
 
 
 ## Preprints
-- <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
+- <a href="https://openreview.net/pdf?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a> \\
 Sung-Yub Kim, <u>Sihwan Park</u>, Yong-Deok Kim, Eunho Yang
