@@ -23,19 +23,19 @@ My primary research interest in large language models falls into two branches fo
 - <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
-Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
+Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 *ICLR, 2023 (Spotlighted)*
 
 - <a href="../assets/papers/master_thesis.pdf">
 **On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**
 </a> \\
-<u>Sihwan Park</u> advised by Eunho Yang \\
+**Sihwan Park** advised by Eunho Yang \\
 *Master's Thesis, KAIST, 2022*
 
 - <a href="../assets/papers/paper1.pdf">
 **Scalable Task Segmentation Method Based on Change Point Detection of Multi-sensors in Smart Spaces**
 </a> \\
-<u>Sihwan Park</u>, Hyunju Kim, Dongman Lee \\
+**Sihwan Park**, Hyunju Kim, Dongman Lee \\
 *Proceedings of the Korean Information Science Society Conference 2018, pp.1764-1766, Jun 2018, (Honorable Mention Award)*
 
 
