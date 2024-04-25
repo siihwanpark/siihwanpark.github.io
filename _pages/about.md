@@ -42,7 +42,7 @@ Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 - <a href="https://openreview.net/pdf?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a> \\
-Sung-Yub Kim, <u>Sihwan Park</u>, Yong-Deok Kim, Eunho Yang
+Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang
 
 
 ## Experiences
