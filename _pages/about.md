@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ).
+I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILab) in KAIST, advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ).
 
 **Generalization and Optimization in Deep Learning**\\
 My research focus encompasses a fundamental understanding of the generalization and optimization of deep learning models through the lens of loss landscape, alongside the advancement of learning algorithms based on this insight. I have conducted studies on the scale-invariance of sharpness in the loss landscape, widely recognized as a proxy for the generalization performance of deep learning models, and investigated the reasons behind the effective performance of sharpness-aware minimization from the perspectives of escaping local optima and convergence at asymmetric valleys. Recently, my research interest focus extending and applying the fundamental findings to new architectural frameworks, *e.g.* LoRA finetuning for LLMs.
