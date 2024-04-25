@@ -52,23 +52,19 @@ Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
 
 
 ## Preprints
-
+- <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a> \\
 Sung-Yub Kim, <u>Sihwan Park</u>, Yong-Deok Kim, Eunho Yang
 
-- <a href="https://arxiv.org/abs/1906.03118">
 
 ## Projects
 
-- Autonomous Intelligent Digital Companion Framework and Application \\
-**Korea Electronics Technology Institute**, *2019-2021*
-
 - A study on adaptive point and regional OOD detection techniques based on sub-task generation \\
-**Samsung**, *2020-2023*
-
-- A machine learning and statistical inference framework for explainable artificial intelligence \\
-**Institute of Information & Communications Technology Planning & Evaluation (IITP)**, *2022-2023*
+**Samsung**, *2021-Present*
 
 - A Study on Optimization and Network Interpretation Method for Large-Scale Machine Learning \\
 **National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *2022-2023*
+
+- A Study on Conversational Large Language Models for Virtual Physicians \\
+**AITRICS**, *2024-Present*
