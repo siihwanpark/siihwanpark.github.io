@@ -36,7 +36,7 @@ Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
 **Scalable Task Segmentation Method Based on Change Point Detection of Multi-sensors in Smart Spaces**
 </a> \\
 <u>Sihwan Park</u>, Hyunju Kim, Dongman Lee \\
-*KCC in Undergraduate Department, 2018 (Honorable Mention Award)*
+*Proceedings of the Korean Information Science Society Conference 2018, pp.1764-1766, Jun 2018, (Honorable Mention Award)*
 
 
 ## Preprints
