@@ -9,9 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Scientist @ <a href="https://www.sait.samsung.co.kr/">**SAIT, Samsung Electronics**</a>.
+I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://sites.google.com/site/yangeh/publications).
 
 My research interest includes:
+- 
 - Post-hoc analysis & applications of pre-traiend models (especially, Foundation Models).
 - Generalization of deep learning via the lens of loss landscape.
 - Bayesian deep learning (especially, Laplace Approximation).
@@ -21,56 +22,42 @@ My research interest includes:
 ## Education
 
 - **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
-*Mar. 2019 - Feb. 2024*
+*Sep. 2022 - Present*
   
-- **M.S.** in Industrial Engineering (Mathematical optimization), <a href="http://polytope.snu.ac.kr/">**Seoul National University (SNU)**</a>\\
-*Mar. 2017 - Feb. 2019*
+- **M.S.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+*Sep. 2020 - Aug. 2022*
 
-- **B.S.** in Industrial Engineering & Mathematical Science, <a href="http://ie.snu.ac.kr/">**Seoul National University (SNU)**</a>\\
-*Mar. 2013 - Feb. 2017*
+- **B.S.** in Computer Science & Mathematical Science, <a href="https://cs.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+*Mar. 2015 - Aug. 2020*
 
 
 ## Published Papers
+- <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503488">
+**Scalable Task Segmentation Method Based on Change Point Detection of Multi-sensors in Smart Spaces**
+</a> \\
+<u>Sihwan Park</u>, Hyunju Kim, Dongman Lee \\
+*KCC in Undergraduate Department, 2018 (Honorable Mention Award)*
 
-- <a href="https://openreview.net/pdf?id=tz4ECtAu8e">**GEX: A flexible method for approximating influence via Geometric Ensemble**</a> \\
-<u>Sung-Yub Kim</u>, Kyungsu Kim, Eunho Yang \\
-*NeurIPS, 2023*
-
--  <a href="https://openreview.net/pdf?id=OcKwZhPwHA">
-**RGE: A Repulsive Graph Rectification for Node Classification via Influence** 
-</a>\\
-Jaeyun Song\*, <u>Sung-Yub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
-*ICML, 2023*
+- <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1044772&se=t0&ty=B&_csrf=3d67e4ff-5451-40a9-8449-915d23da4294">
+**On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**
+</a> \\
+<u>Sihwan Park</u> advised by Eunho Yang \\
+*Master's Thesis, KAIST, 2022*
 
 - <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
-<u>Sung-Yub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
+Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
 *ICLR, 2023 (Spotlighted)*
 
-- <a href="https://rllab.snu.ac.kr/publications/papers/2020_rss_tac.pdf">**Generalized Tsallis Entropy Reinforcement Learning and Its Application to Soft Mobile Robots**</a> \\
-Kyungjae Lee, <u>Sung-Yub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaein Kim, Yong-Lae Park, and Songhwai Oh \\
-*Robotics: Science and Systems Foundation*
 
 ## Preprints
 
-- <a href="https://arxiv.org/abs/2404.00384">
-**TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias** 
-</a> \\
-Sanghyun Jo\*, Soohyun Ryu\*, <u>Sungyub Kim</u>, Eunho Yang, Kyungsu Kim (\*: equal contribution)
-
-- **Post-Training Recovery from Injected Bias with Self-Influence**\\
-Jaeyun Song\* and Yeonsung Jung\* and June Yong Yang\* and Jin-Hwa Kim and <u>Sung-Yub Kim</u> and Eunho Yang (\*: equal contribution)
-
-- <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a> \\
-<u>Sung-Yub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang
+Sung-Yub Kim, <u>Sihwan Park</u>, Yong-Deok Kim, Eunho Yang
 
 - <a href="https://arxiv.org/abs/1906.03118">
-**Reliable Estimation of Individual Treatment Effect with Causal Information Bottleneck**
-</a> \\
-<u>Sung-Yub Kim</u>, Yongsu Baek, Sung Ju Hwang, Eunho Yang
 
 ## Projects
 
