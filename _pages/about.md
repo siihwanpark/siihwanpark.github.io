@@ -20,7 +20,7 @@ My primary research interest in large language models falls into two branches fo
 
 ## Published Papers
 
-- <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
+- <a href="../assets/papers/Scalable_task_segmentation_method_based_on_change_point_dectection_of_multi-sensors_in_smart_spaces.pdf">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
