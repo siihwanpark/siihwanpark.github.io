@@ -83,6 +83,6 @@ Sung-Yub Kim, <u>Sihwan Park</u>, Yong-Deok Kim, Eunho Yang
 - A Study on Optimization and Network Interpretation Method for Large-Scale Machine Learning \\
 **National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2023-Feb.2027*
 
-- A Study on Conversational Large Language Models for Virtual Physicians \\
+- A Study on Conversational Large Language Models for Virtual Physicians in Patient Intake \\
 **AITRICS**, *Apr.2024-May.2024*
 
