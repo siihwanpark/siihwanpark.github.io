@@ -47,7 +47,7 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang
 
 ## Experiences
 - Research Intern, **Computer Architecture and Systems Lab, KAIST**, Daejeon, <font size="3">Aug. 2019 - Dec. 2019</font>
-  - Advisor: [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/)
+  - Advisor : [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/)
   - Low-level security techniques of Intel SGX and secure container with KVSSD
 
 - Research Intern, **Collaborative Distributed Systems and Networking Lab, KAIST**, Daejeon, <font size="3">Jan. 2018 - Oct. 2018</font>
