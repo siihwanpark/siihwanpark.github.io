@@ -3,7 +3,6 @@ permalink: /
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
-classes: wide
 redirect_from:
   - /about/
   - /about.html
@@ -12,11 +11,10 @@ redirect_from:
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILab) in KAIST, advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ).
 
 ### Generalization and Optimization in Deep Learning
-My research focus encompasses a **fundamental understanding of the generalization and optimization of deep learning models through the lens of loss landscape**, alongside the advancement of learning algorithms based on this insight. I have conducted studies on the scale-invariance of sharpness in the loss landscape, widely recognized as a proxy for the generalization performance of deep learning models, and investigated the reasons behind the effective performance of sharpness-aware minimization from the perspectives of escaping local optima and convergence at asymmetric valleys. Recently, my research interest focus extending and applying the fundamental findings to new architectural frameworks, *e.g.* LoRA finetuning for LLMs.
+My scholarly pursuit is centered on a **fundamental comprehension of the generalization and optimization mechanisms of deep learning models through the lens of loss landscape**, alongside the advancement of learning algorithms informed by deep theoretical insights. I have engaged in extensive studies concerning the scale-invariance of sharpness within the loss landscape, which is widely acknowledged as a proxy of the generalization capability of deep learning models. Furthermore, I have explored the efficacy of sharpness-aware minimization by analyzing its role in overcoming local optima and achieving convergence within asymmetrical valleys. Recently, my research has expanded to incorporate these foundational insights into contemporary frameworks, such as LoRA fine-tuning for large language models (LLMs).
 
 ### Large Language Models
-My primary research interest in large language models falls into two branches following: 1) **Light-weightening**. It aims at reducing the size of large language models or enhancing their inference speed. Currently, I'm working on sub 4-bit post-training quantization and speculative deconding. 2) **Fine-tuning**. My recent research efforts have been dedicated to improving fine-tuning performance of quantized models. The research objective is to establish a quantization algorithm for large language models that can adapt in conjunction with the fine-tuning objective, moving beyond data-free or general corpus data-driven quantization.
-
+My research within the domain of large language models bifurcates into two main themes: 1) **Light-weigthening**: This line of inquiry concentrates on reducing the model size or computational overhead of large language models to improve their operational efficiency. Currently, I am engaged in developing methodologies for knowledge distillation, sub 4-bit post-training quantization and speculative decoding. 2) **Fine-tuning**: My recent efforts are directed towards refining the fine-tuning processes for quantized models. The goal of this research is to devise a quantization algorithm tailored for large language models that dynamically adapts during fine-tuning, thus transcending the limitations of traditional data-free or generic corpus-based quantization approaches.
 
 ## Published Papers
 
