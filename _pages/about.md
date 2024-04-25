@@ -66,7 +66,10 @@ Sung-Yub Kim, <u>Sihwan Park</u>, Yong-Deok Kim, Eunho Yang
 - **M.S.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Sep. 2020 - Aug. 2022*
 
-- **B.S.** in Computer Science and Mathematical Science, <a href="https://cs.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+- **B.S.** in Computer Science, <a href="https://cs.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+*Mar. 2015 - Aug. 2020*
+
+- **B.S.** in Mathematical Science, <a href="https://mathsci.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Mar. 2015 - Aug. 2020*
 
 ## Projects
