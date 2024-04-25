@@ -19,11 +19,12 @@ My primary research interest in large language models falls into two branches fo
 
 
 ## Published Papers
-- <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503488">
-**Scalable Task Segmentation Method Based on Change Point Detection of Multi-sensors in Smart Spaces**
+
+- <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
+**Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
-<u>Sihwan Park</u>, Hyunju Kim, Dongman Lee \\
-*KCC in Undergraduate Department, 2018 (Honorable Mention Award)*
+Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
+*ICLR, 2023 (Spotlighted)*
 
 - <a href="https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1044772&se=t0&ty=B&_csrf=3d67e4ff-5451-40a9-8449-915d23da4294">
 **On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**
@@ -31,11 +32,11 @@ My primary research interest in large language models falls into two branches fo
 <u>Sihwan Park</u> advised by Eunho Yang \\
 *Master's Thesis, KAIST, 2022*
 
-- <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
-**Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
+- <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503488">
+**Scalable Task Segmentation Method Based on Change Point Detection of Multi-sensors in Smart Spaces**
 </a> \\
-Sung-Yub Kim, <u>Sihwan Park</u>, Kyungsu Kim, Eunho Yang \\
-*ICLR, 2023 (Spotlighted)*
+<u>Sihwan Park</u>, Hyunju Kim, Dongman Lee \\
+*KCC in Undergraduate Department, 2018 (Honorable Mention Award)*
 
 
 ## Preprints
