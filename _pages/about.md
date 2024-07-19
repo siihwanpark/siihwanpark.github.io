@@ -31,11 +31,11 @@ Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 **Sihwan Park** advised by Eunho Yang \\
 *Master's Thesis, KAIST, 2022*
 
-- <a href="../assets/papers/paper1.pdf">
-**Scalable Task Segmentation Method Based on Change Point Detection of Multi-sensors in Smart Spaces**
-</a> \\
-**Sihwan Park**, Hyunju Kim, Dongman Lee \\
-*Proceedings of the Korean Information Science Society Conference 2018, pp.1764-1766, Jun 2018, (Honorable Mention Award)*
+# - <a href="../assets/papers/paper1.pdf">
+# **Scalable Task Segmentation Method Based on Change Point Detection of Multi-sensors in Smart Spaces**
+# </a> \\
+# **Sihwan Park**, Hyunju Kim, Dongman Lee \\
+# *Proceedings of the Korean Information Science Society Conference 2018, pp.1764-1766, Jun 2018, (Honorable Mention Award)*
 
 
 ## Preprints
