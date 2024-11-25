@@ -48,12 +48,18 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**
 </a> \\
 **Sihwan Park<sup>*</sup>**, Doohyuk Jang<sup>*</sup>, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang 
+
 (<sup>*</sup>: Equal Contribution)
+
+ICLR 2025 Under Review
 - <a href="https://openreview.net/pdf?id=OBIuFjZzmp">
 **MeZO-A$^3$dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs**
 </a> \\
 **Sihwan Park<sup>*</sup>**, Jihun Yun<sup>*</sup>, Sung-Yub Kim, June Yong Yang, Yeonsung Jung, Souvik Kundu, Kyungsu Kim, Eunho Yang 
+
 (<sup>*</sup>: Equal Contribution)
+
+ICLR 2025 Under Review
 
 
 ## Experiences
