@@ -22,7 +22,7 @@ My research focuses on understanding the generalization and optimization mechani
 - <a href="https://arxiv.org/abs/2410.03355">
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**
 </a> \\
-**Sihwan Park<sup>*</sup>**, Doohyuk Jang<sup>*</sup>, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang \\
+**Sihwan Park<sup>*</sup>**, Doohyuk Jang<sup>*</sup>, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang
 (<sup>*</sup>: Equal Contribution) \\
 *ICLR 2025*
 
@@ -31,12 +31,6 @@ My research focuses on understanding the generalization and optimization mechani
 </a> \\
 Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 *ICLR, 2023 (Spotlighted)*
-
-- <a href="../assets/papers/master_thesis.pdf">
-**On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**
-</a> \\
-**Sihwan Park** advised by Eunho Yang \\
-*Master's Thesis, KAIST, 2022*
 
 <!---
 - <a href="../assets/papers/paper1.pdf">
@@ -61,8 +55,8 @@ Preprint
 
 - <a href="https://arxiv.org/abs/2501.19099">
 **Unraveling Zeroth-Order Optimization Through the Lens of Low-Dimensional Structured Perturbations**
-<\a> \\
-**Sihwan Park<sup>*</sup>**, Jihun Yun<sup>*</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang \\
+</a> \\  
+**Sihwan Park<sup>*</sup>**, Jihun Yun<sup>*</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>*</sup>: Equal Contribution) \\
 Preprint
 
@@ -86,6 +80,8 @@ Preprint
   
 - **M.S.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Sep. 2020 - Aug. 2022*
+  - Advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ)
+  - Master's Thesis: <a href="../assets/papers/master_thesis.pdf">**On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**</a>
 
 - **B.S.** in Computer Science, <a href="https://cs.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Mar. 2015 - Aug. 2020*
