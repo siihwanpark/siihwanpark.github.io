@@ -57,19 +57,6 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
 </a> \\
 **Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>†</sup>: Equal Contribution) (2025)
-
-
-## Experiences
-- Research Intern, **Computer Architecture and Systems Lab, KAIST**, Daejeon, <font size="3">Aug. 2019 - Dec. 2019</font>
-  - Advisor : [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/)
-  - Low-level security techniques of Intel SGX and secure container with KVSSD
-
-- Research Intern, **Collaborative Distributed Systems and Networking Lab, KAIST**, Daejeon, <font size="3">Jan. 2018 - Oct. 2018</font>
-  - Advisor : [Prof. Dongman Lee](http://143.248.55.123/cdsn/?p=29)
-  - Signal data processing for IoT task recognition and framework for task segmentation
-
-- Exchange Student, **University of California, Santa Cruz**, Santa Cruz, CA, <font size="3">Jun. 2019 - Aug. 2019</font>
-  - Software engineering and computer game basics
     
 ## Education
 
@@ -86,6 +73,18 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
 
 - **B.S.** in Mathematical Science, <a href="https://mathsci.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Mar. 2015 - Aug. 2020*
+
+## Experiences
+- Research Intern, **Computer Architecture and Systems Lab, KAIST**, Daejeon, <font size="3">Aug. 2019 - Dec. 2019</font>
+  - Advisor : [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/)
+  - Low-level security techniques of Intel SGX and secure container with KVSSD
+
+- Research Intern, **Collaborative Distributed Systems and Networking Lab, KAIST**, Daejeon, <font size="3">Jan. 2018 - Oct. 2018</font>
+  - Advisor : [Prof. Dongman Lee](http://143.248.55.123/cdsn/?p=29)
+  - Signal data processing for IoT task recognition and framework for task segmentation
+
+- Exchange Student, **University of California, Santa Cruz**, Santa Cruz, CA, <font size="3">Jun. 2019 - Aug. 2019</font>
+  - Software engineering and computer game basics
 
 ## Projects
 
