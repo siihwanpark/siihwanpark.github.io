@@ -30,7 +30,7 @@ My research focuses on understanding the generalization and optimization mechani
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
-*ICLR, 2023 (Spotlighted)*
+*ICLR 2023 (Spotlighted)*
 
 <!---
 - <a href="../assets/papers/paper1.pdf">
@@ -44,21 +44,19 @@ Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 - <a href="https://openreview.net/pdf?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a> \\
-Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang
+Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
 
 - <a href="https://openreview.net/pdf?id=OBIuFjZzmp">
-**MeZO-A$^3$dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs**
+**MeZO-A^3dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs**
 </a> \\
 **Sihwan Park<sup>*</sup>**, Jihun Yun<sup>*</sup>, Sung-Yub Kim, June Yong Yang, Yeonsung Jung, Souvik Kundu, Kyungsu Kim, Eunho Yang 
-(<sup>*</sup>: Equal Contribution) \\
-Preprint
+(<sup>*</sup>: Equal Contribution) (2024)
 
 - <a href="https://arxiv.org/abs/2501.19099">
 **Unraveling Zeroth-Order Optimization Through the Lens of Low-Dimensional Structured Perturbations**
-</a> \\  
+</a> \\
 **Sihwan Park<sup>*</sup>**, Jihun Yun<sup>*</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
-(<sup>*</sup>: Equal Contribution) \\
-Preprint
+(<sup>*</sup>: Equal Contribution) (2025)
 
 
 ## Experiences
@@ -107,5 +105,5 @@ Preprint
 **AITRICS**, *Apr.2024-May.2024*
 
 - Efficient Foundation Models on Intel Systems \\
-**Intel**, *Sep.2024-Aug.2027*
+**Intel Corporation & NAVER**, *Sep.2024-Aug.2027*
 
