@@ -12,7 +12,7 @@ redirect_from:
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILab) in KAIST, advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ).
 
 ### Efficient Training and Inference for Foundations Models
- My research focuses on enhancing the efficiency of foundation models, including large language models and mixed-modal architectures that combine text and images. I aim to improve operational efficiency by optimizing model size, minimizing computational overhead, and accelerating training and inference using techniques such as forward-only optimization, low-precision methods, and speculative decoding. The goal is to develop scalable frameworks that support the broad application of foundation models across diverse modalities.
+My research focuses on enhancing the efficiency of foundation models, including large language models and mixed-modal architectures that combine text and images. I aim to improve operational efficiency by optimizing model size, minimizing computational overhead, and accelerating training and inference using techniques such as forward-only optimization, low-precision methods, and speculative decoding. The goal is to develop scalable frameworks that support the broad application of foundation models across diverse modalities.
 
 ### Generalization and Optimization in Deep Learning
 My research focuses on understanding the generalization and optimization mechanisms of deep learning models, particularly through the study of loss landscapes and advancing learning algorithms grounded in theoretical insights. I have conducted extensive research on the scale-invariance of sharpness in loss landscapes, a widely recognized proxy for the generalization capability of deep learning models. Additionally, I have investigated the effectiveness of sharpness-aware minimization in overcoming local optima and achieving convergence within asymmetrical valleys. Recently, my work has expanded to apply these foundational insights to modern frameworks, including fine-tuning compressed models, zeroth-order optimization, and low-precision training for foundation models.
@@ -22,10 +22,8 @@ My research focuses on understanding the generalization and optimization mechani
 - <a href="https://arxiv.org/abs/2410.03355">
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**
 </a> \\
-
-**Sihwan Park<sup>*</sup>**, Doohyuk Jang<sup>*</sup>, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang 
+**Sihwan Park<sup>*</sup>**, Doohyuk Jang<sup>*</sup>, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang \\
 (<sup>*</sup>: Equal Contribution) \\
-
 *ICLR 2025*
 
 - <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
@@ -64,7 +62,7 @@ Preprint
 - <a href="https://arxiv.org/abs/2501.19099">
 **Unraveling Zeroth-Order Optimization Through the Lens of Low-Dimensional Structured Perturbations**
 <\a> \\
-**Sihwan Park<sup>*</sup>**, Jihun Yun<sup>*</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang 
+**Sihwan Park<sup>*</sup>**, Jihun Yun<sup>*</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang \\
 (<sup>*</sup>: Equal Contribution) \\
 Preprint
 
