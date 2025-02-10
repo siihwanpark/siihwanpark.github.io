@@ -22,7 +22,7 @@ My research focuses on understanding the generalization and optimization mechani
 - <a href="https://arxiv.org/abs/2410.03355">
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**
 </a> \\
-**Sihwan Park<sup>†</sup>**, Doohyuk Jang<sup>†</sup>, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang
+Doohyuk Jang<sup>†</sup>, **Sihwan Park<sup>†</sup>**, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang
 (<sup>†</sup>: Equal Contribution) \\
 *ICLR 2025*
 
@@ -56,6 +56,12 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
 **Unraveling Zeroth-Order Optimization Through the Lens of Low-Dimensional Structured Perturbations**
 </a> \\
 **Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
+(<sup>†</sup>: Equal Contribution) (2025)
+
+- <a href="https://arxiv.org/abs/2502.99999">
+**LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**
+</a> \\
+**Sihwan Park<sup>†</sup>**, Doohyuk Jang<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>†</sup>: Equal Contribution) (2025)
     
 ## Education
