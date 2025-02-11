@@ -17,7 +17,7 @@ My research focuses on enhancing the efficiency of foundation models, including 
 ### Generalization and Optimization in Deep Learning
 My research focuses on understanding the generalization and optimization mechanisms of deep learning models, particularly through the study of loss landscapes and advancing learning algorithms grounded in theoretical insights. I have conducted extensive research on the scale-invariance of sharpness in loss landscapes, a widely recognized proxy for the generalization capability of deep learning models. Additionally, I have investigated the effectiveness of sharpness-aware minimization in overcoming local optima and achieving convergence within asymmetrical valleys. Recently, my work has expanded to apply these foundational insights to modern frameworks, including fine-tuning compressed models, zeroth-order optimization, and low-precision training for foundation models.
 
-## Published Papers (Last Updated: Feb.3, 2025)
+## Published Papers (Last Updated: Feb.11, 2025)
 
 - <a href="https://arxiv.org/abs/2410.03355">
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**
