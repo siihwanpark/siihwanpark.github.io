@@ -58,7 +58,7 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
 **Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>†</sup>: Equal Contribution) (2025)
 
-- <a href="https://arxiv.org/abs/2502.99999">
+- <a href="https://arxiv.org/abs/2502.06352">
 **LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**
 </a> \\
 **Sihwan Park<sup>†</sup>**, Doohyuk Jang<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
