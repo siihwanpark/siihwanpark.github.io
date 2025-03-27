@@ -24,7 +24,7 @@ My research focuses on understanding the generalization and optimization mechani
 </a> \\
 **Sihwan Park<sup>†</sup>**, Doohyuk Jang<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>†</sup>: Equal Contribution) \\
-*ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE) (Oral Presentation)*
+*ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (Oral Presentation)*
 
 - <a href="https://arxiv.org/abs/2410.03355">
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**
