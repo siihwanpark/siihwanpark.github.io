@@ -20,7 +20,7 @@ My research focuses on understanding the generalization and optimization mechani
 ## Published Papers (Last Updated: Mar.27, 2025)
 
 - <a href="https://arxiv.org/abs/2502.06352">
-**LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**
+**LANTERN++: Enhancing Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**
 </a> \\
 **Sihwan Park<sup>†</sup>**, Doohyuk Jang<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>†</sup>: Equal Contribution) \\
