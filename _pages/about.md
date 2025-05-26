@@ -60,7 +60,7 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
 (<sup>†</sup>: Equal Contribution) (2024)
 
 - <a href="https://arxiv.org/abs/2501.19099">
-**Unraveling Zeroth-Order Optimization Through the Lens of Low-Dimensional Structured Perturbations**
+**Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale**
 </a> \\
 **Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>†</sup>: Equal Contribution) (2025)
