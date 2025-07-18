@@ -11,20 +11,33 @@ redirect_from:
 
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILab) in KAIST, advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ).
 
-### Efficient Training and Inference for Foundations Models
-My research focuses on enhancing the efficiency of foundation models, including large language models and mixed-modal architectures that combine text and images. I aim to improve operational efficiency by optimizing model size, minimizing computational overhead, and accelerating training and inference using techniques such as forward-only optimization, low-precision methods, and speculative decoding. The goal is to develop scalable frameworks that support the broad application of foundation models across diverse modalities.
+### Research Interests
+My primary research interest lies in improving the computational and memory efficiency of training and inference in foundation models, with a particular focus on large language models (LLMs). Recently, I proposed a relaxed speculative decoding method designed to accelerate autoregressive generation in multimodal models. Currently, I am investigating the potential of speculative decoding to accelerate LLM inference in large-batch settings, challenging the prevailing assumption that large-batch inference is inherently compute-bound and cannot benefit from speculative approaches. Moving forward, I plan to expand my research beyond speculative decoding, exploring various techniques such as parallel decoding, KV cache compression, quantization, and their algorithmic integration to enhance efficiency further. On the optimization front, my recent work includes zeroth-order optimization methods for memory-efficient fine-tuning of large-scale models. I also intend to develop efficient algorithms for accelerating reinforcement learning pipelines and effective fine-tuning methods explicitly tailored for quantized LLMs. 
 
-### Generalization and Optimization in Deep Learning
-My research focuses on understanding the generalization and optimization mechanisms of deep learning models, particularly through the study of loss landscapes and advancing learning algorithms grounded in theoretical insights. I have conducted extensive research on the scale-invariance of sharpness in loss landscapes, a widely recognized proxy for the generalization capability of deep learning models. Additionally, I have investigated the effectiveness of sharpness-aware minimization in overcoming local optima and achieving convergence within asymmetrical valleys. Recently, my work has expanded to apply these foundational insights to modern frameworks, including fine-tuning compressed models, zeroth-order optimization, and low-precision training for foundation models.
+### Background and Insights
+In the earlier stages of my research, I focused on theoretical aspects of generalization and optimization dynamics in deep neural networks. Specifically, I conducted sharpness-based analyses of loss landscapes, provided theoretical insights into generalization, and proposed improved sharpness-aware minimization algorithms. These foundational insights continue to inform my current research, offering a principled foundation for designing effective and efficient methods for both training and inference in modern foundation models.
 
-## Published Papers (Last Updated: Mar.27, 2025)
+## Publications (Last Updated: Jul 2025)
+
+- <a href="https://arxiv.org/abs/2501.19099">
+**Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale**
+</a> \\
+**Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
+(<sup>†</sup>: Equal Contribution) \\
+*Preprint (2025)*
+
+
+- **Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge** \\
+Joonhyung Park<sup>†</sup>, Jaeyun Song<sup>†</sup>, **Sihwan Park**, Eunho Yang
+(<sup>†</sup>: Equal Contribution) \\
+*Preprint (2025)*
 
 - <a href="https://arxiv.org/abs/2502.06352">
 **LANTERN++: Enhancing Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**
 </a> \\
 **Sihwan Park<sup>†</sup>**, Doohyuk Jang<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>†</sup>: Equal Contribution) \\
-*ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (Oral Presentation)*
+*ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (Best Paper Runner-up)*
 
 - <a href="https://arxiv.org/abs/2410.03355">
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**
@@ -33,11 +46,23 @@ Doohyuk Jang<sup>†</sup>, **Sihwan Park<sup>†</sup>**, June Yong Yang, Yeons
 (<sup>†</sup>: Equal Contribution) \\
 *ICLR 2025*
 
+- <a href="https://openreview.net/pdf?id=OBIuFjZzmp">
+**MeZO-A^3dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs**
+</a> \\
+**Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, June Yong Yang, Yeonsung Jung, Souvik Kundu, Kyungsu Kim, Eunho Yang 
+(<sup>†</sup>: Equal Contribution) \\
+*Preprint (2024)*
+
 - <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 *ICLR 2023 (Spotlighted)*
+
+- <a href="https://openreview.net/pdf?id=Mvf5zr2qs6">
+**Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
+</a> \\
+Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
 
 <!---
 - <a href="../assets/papers/paper1.pdf">
@@ -47,24 +72,6 @@ Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 *Proceedings of the Korean Information Science Society Conference 2018, pp.1764-1766, Jun 2018, (Honorable Mention Award)*
 -->
 
-## Preprints
-- <a href="https://openreview.net/pdf?id=Mvf5zr2qs6">
-**Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
-</a> \\
-Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
-
-- <a href="https://openreview.net/pdf?id=OBIuFjZzmp">
-**MeZO-A^3dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs**
-</a> \\
-**Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, June Yong Yang, Yeonsung Jung, Souvik Kundu, Kyungsu Kim, Eunho Yang 
-(<sup>†</sup>: Equal Contribution) (2024)
-
-- <a href="https://arxiv.org/abs/2501.19099">
-**Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale**
-</a> \\
-**Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
-(<sup>†</sup>: Equal Contribution) (2025)
-    
 ## Education
 
 - **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
@@ -111,5 +118,5 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
 **AITRICS**, *Apr.2024-May.2024*
 
 - Efficient Foundation Models on Intel Systems \\
-**Intel Corporation & NAVER**, *Sep.2024-Aug.2027*
+**Intel Corporation & NAVER**, *Sep.2024-Aug.2025*
 
