@@ -26,7 +26,6 @@ In the earlier stages of my research, I focused on theoretical aspects of genera
 (<sup>†</sup>: Equal Contribution) \\
 *Preprint (2025)*
 
-
 - **Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge** \\
 Joonhyung Park<sup>†</sup>, Jaeyun Song<sup>†</sup>, **Sihwan Park**, Eunho Yang
 (<sup>†</sup>: Equal Contribution) \\
@@ -62,7 +61,8 @@ Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 - <a href="https://openreview.net/pdf?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a> \\
-Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang (2022)
+Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang \\
+*Preprint (2022)*
 
 <!---
 - <a href="../assets/papers/paper1.pdf">
