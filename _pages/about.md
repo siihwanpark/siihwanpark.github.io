@@ -46,7 +46,7 @@ Doohyuk Jang<sup>†</sup>, **Sihwan Park<sup>†</sup>**, June Yong Yang, Yeons
 *ICLR 2025*
 
 - <a href="https://openreview.net/pdf?id=OBIuFjZzmp">
-**MeZO-A^3dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs**
+**MeZO-A<sup>3</sup>dam: Memory-efficient Zeroth-order Adam with Adaptivity Adjustments for Fine-tuning LLMs**
 </a> \\
 **Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, June Yong Yang, Yeonsung Jung, Souvik Kundu, Kyungsu Kim, Eunho Yang 
 (<sup>†</sup>: Equal Contribution) \\
