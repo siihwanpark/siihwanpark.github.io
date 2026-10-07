@@ -20,7 +20,7 @@ title                    : "Sihwan Park"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Sihwan Park"
-description              : &description "Ph.D student at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
+description              : &description "Ph.D candidate at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
 url                      : "https://siihwanpark.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "siihwanpark/siihwanpark.github.io"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Sihwan Park"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "Ph.D student at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
-  location         : "Seongnam, South Korea"
+  bio              : "Ph.D candidate at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)"
+  location         : "Seoul, South Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
