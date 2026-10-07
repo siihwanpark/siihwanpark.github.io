@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at the <a href="https://mli.kaist.ac.kr/">Machine Learning and Intelligence Lab.</a> at KAIST, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ">Prof. Eunho Yang</a>.
+I am a final-year Ph.D. candidate at the <a href="https://mli.kaist.ac.kr/">Machine Learning and Intelligence Lab.</a> at Korea Advanced Institute of Science and Technology (KAIST), advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ">Prof. Eunho Yang</a>.
 
 ### Research Focus
 My research centers on efficient inference for large-scale foundation models, with a broader interest in efficient training and post-training. I primarily approach efficiency from an algorithmic perspective, but I am especially interested in methods that remain effective under real hardware and system constraints. In other words, I care not only about improving algorithmic metrics, but also about whether those improvements translate into meaningful reductions in latency, memory usage, and computational cost in realistic workloads. This perspective has naturally led me to study the interaction between algorithms and the characteristics of modern accelerators, memory hierarchies, parallel execution, and serving systems.
@@ -96,15 +96,15 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang \\
 
 ## Education
 
-- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+- **Ph.D.** in Graduate School of AI, KAIST\\
 *Sep. 2022 - Present*
-  - Advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ)
+  - Advised by Prof. Eunho Yang
   
-- **M.S.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+- **M.S.** in Graduate School of AI, KAIST\\
 *Sep. 2020 - Aug. 2022*
-  - Advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ)
+  - Advised by Prof. Eunho Yang
 
-- **B.S.** in Computer Science and Mathematical Sciences, **Korea Advanced Institute of Science and Technology (KAIST)**\\
+- **B.S.** in Computer Science and Mathematical Sciences, KAIST\\
 *Mar. 2015 - Aug. 2020*
 
 
@@ -129,4 +129,4 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang \\
 **National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2023-Feb.2027*
   
 - A Study on Statistically and Computationally Efficient Parameter Structures for Machine Learning Algorithms \\
-**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2021-Dec.2022*
+**NRF grant funded by the Korea government (MSIT)**, *Mar.2021-Dec.2022*
