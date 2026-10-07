@@ -9,25 +9,39 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILab) in KAIST, advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ).
+I am a final-year Ph.D. candidate at the \href{https://mli.kaist.ac.kr/}{Machine Learning and Intelligence Lab} at KAIST, advised by \href{https://scholar.google.com/citations?user=UWO1mloAAAAJ}{Prof. Eunho Yang}.
 
-### Research Interests
-My primary research interest lies in improving the computational and memory efficiency of training and inference in foundation models, with a particular focus on large language models (LLMs). Recently, I proposed a relaxed speculative decoding method designed to accelerate autoregressive generation in multimodal models. Currently, I am investigating the potential of speculative decoding to accelerate LLM inference in large-batch settings, challenging the prevailing assumption that large-batch inference is inherently compute-bound and cannot benefit from speculative approaches. Moving forward, I plan to expand my research beyond speculative decoding, exploring various techniques such as parallel decoding, KV cache compression, quantization, and their algorithmic integration to enhance efficiency further. On the optimization front, my recent work includes zeroth-order optimization methods for memory-efficient fine-tuning of large-scale models. I also intend to develop efficient algorithms for accelerating reinforcement learning pipelines and effective fine-tuning methods explicitly tailored for quantized LLMs. 
+### Research Focus
+My research centers on efficient inference for large-scale foundation models, with a broader interest in efficient training and post-training. I primarily approach efficiency from an algorithmic perspective, but I am especially interested in methods that remain effective under real hardware and system constraints. In other words, I care not only about improving algorithmic metrics, but also about whether those improvements translate into meaningful reductions in latency, memory usage, and computational cost in realistic workloads. This perspective has naturally led me to study the interaction between algorithms and the characteristics of modern accelerators, memory hierarchies, parallel execution, and serving systems.
 
-### Background and Insights
-In the earlier stages of my research, I focused on theoretical aspects of generalization and optimization dynamics in deep neural networks. Specifically, I conducted sharpness-based analyses of loss landscapes, provided theoretical insights into generalization, and proposed improved sharpness-aware minimization algorithms. These foundational insights continue to inform my current research, offering a principled foundation for designing effective and efficient methods for both training and inference in modern foundation models.
+### Current Research Directions
+My recent work focuses on several complementary directions toward practical acceleration of large-scale models. One major direction is efficient reinforcement learning for language models, particularly accelerating RLVR rollouts through techniques such as quantized inference and efficient scheduling. I am also continuing to work on speculative decoding, with an emphasis on making it genuinely effective in realistic serving settings such as large-batch, high-throughput, and offline inference, rather than optimizing acceptance-related metrics in isolation. Quantization is another central theme in my research, both as a standalone compression technique and as a building block that can be integrated with other acceleration methods. More broadly, I am interested in understanding how efficiency bottlenecks change across workloads and architectures, and in designing methods that are tailored to those changing bottlenecks rather than assuming a single inference regime.
 
-## Publications (Last Updated: Jul 2025)
+### Broader Vision
+Looking forward, I am particularly interested in efficiency challenges arising from new workloads, model architectures, and modalities. This includes agentic and long-horizon inference, multimodal models, sparse and linear attention, mixture-of-experts models, and other architectures whose computational behavior differs substantially from conventional dense autoregressive models. I believe these shifts will create new opportunities for algorithmic acceleration, but will also require a more careful understanding of workload structure, hardware utilization, memory behavior, and system-level constraints. My broader goal is to develop principled and practically effective algorithms that make increasingly capable models faster, more resource-efficient, and more economical to train and deploy. While my current focus is on inference, my earlier work in optimization and memory-efficient learning also provides a broader foundation for studying efficiency across the full lifecycle of modern foundation models.
+
+## Publications & Research Works (Last Updated: Oct. 2026)
+
+- **KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization** \\
+**Sihwan Park**, Sung-Yub Kim, Doohyuk Jang, Eunho Yang \\
+*Preprint (2026)*
+
+- <a href="https://arxiv.org/abs/2501.19099">
+**Learning Beyond What You Sample: Off-Policy-Aware Cross-Model Trajectory Exchange for RLVR**
+</a> \\
+Doohyuk Jang, Yoonsik Park, Gyouk Chu, **Sihwan Park**, Eunho Yang \\
+*Preprint (2026)*
+
+- <a href="https://aclanthology.org/2026.acl-long.172/">
+**Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge** \\
+Joonhyung Park<sup>†</sup>, Jaeyun Song<sup>†</sup>, **Sihwan Park**, Eunho Yang
+(<sup>†</sup>: Equal Contribution) \\
+*ACL 2026*
 
 - <a href="https://arxiv.org/abs/2501.19099">
 **Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale**
 </a> \\
 **Sihwan Park<sup>†</sup>**, Jihun Yun<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
-(<sup>†</sup>: Equal Contribution) \\
-*Preprint (2025)*
-
-- **Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge** \\
-Joonhyung Park<sup>†</sup>, Jaeyun Song<sup>†</sup>, **Sihwan Park**, Eunho Yang
 (<sup>†</sup>: Equal Contribution) \\
 *Preprint (2025)*
 
@@ -58,11 +72,17 @@ Doohyuk Jang<sup>†</sup>, **Sihwan Park<sup>†</sup>**, June Yong Yang, Yeons
 Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
 *ICLR 2023 (Spotlighted)*
 
+- <a href="../assets/papers/master_thesis.pdf">
+**On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**
+</a> \\
+**Sihwan Park**
+*Master's Thesis, KAIST*
+
 - <a href="https://openreview.net/pdf?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a> \\
 Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang \\
-*Preprint (2022)*
+*Preprint (2021)*
 
 <!---
 - <a href="../assets/papers/paper1.pdf">
@@ -76,19 +96,17 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang \\
 
 - **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Sep. 2022 - Present*
+  - Advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ)
   
 - **M.S.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Sep. 2020 - Aug. 2022*
   - Advised by [Prof. Eunho Yang](https://scholar.google.com/citations?user=UWO1mloAAAAJ)
-  - Master's Thesis: <a href="../assets/papers/master_thesis.pdf">**On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**</a>
 
-- **B.S.** in Computer Science, <a href="https://cs.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+- **B.S.** in Computer Science and Mathematical Sciences, **Korea Advanced Institute of Science and Technology (KAIST)**\\
 *Mar. 2015 - Aug. 2020*
 
-- **B.S.** in Mathematical Science, <a href="https://mathsci.kaist.ac.kr">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
-*Mar. 2015 - Aug. 2020*
 
-## Experiences
+## Research Experience
 - Research Intern, **Computer Architecture and Systems Lab, KAIST**, Daejeon, <font size="3">Aug. 2019 - Dec. 2019</font>
   - Advisor : [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/)
   - Low-level security techniques of Intel SGX and secure container with KVSSD
@@ -97,26 +115,16 @@ Sung-Yub Kim, **Sihwan Park**, Yong-Deok Kim, Eunho Yang \\
   - Advisor : [Prof. Dongman Lee](http://143.248.55.123/cdsn/?p=29)
   - Signal data processing for IoT task recognition and framework for task segmentation
 
-- Exchange Student, **University of California, Santa Cruz**, Santa Cruz, CA, <font size="3">Jun. 2019 - Aug. 2019</font>
-  - Software engineering and computer game basics
-
-## Projects
-
-- Sub-task generation based point/regional Out-Of-Distribution detection \\
-**Samsung Electronics**, *Mar.2021-Sep.2025*
-
-- Predicting graph properties with few labels using Graph Neural Networks \\
-**Samsung Electronics**, *Mar.2021-Sep.2025*
-
-- A Study on Statistically and Computationally Efficient Parameter Structures for Machine Learning Algorithms \\
-**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2021-Dec.2022*
-  
-- A Study on Optimization and Network Interpretation Method for Large-Scale Machine Learning \\
-**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2023-Feb.2027*
-
-- A Study on Conversational Large Language Models for Virtual Physicians in Patient Intake \\
-**AITRICS**, *Apr.2024-May.2024*
+## Selected Research Projects & Collaborations
 
 - Efficient Foundation Models on Intel Systems \\
 **Intel Corporation & NAVER**, *Sep.2024-Aug.2025*
 
+- A Study on Conversational Large Language Models for Virtual Physicians in Patient Intake \\
+**AITRICS**, *Apr.2024-May.2024*
+
+- A Study on Optimization and Network Interpretation Method for Large-Scale Machine Learning \\
+**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2023-Feb.2027*
+  
+- A Study on Statistically and Computationally Efficient Parameter Structures for Machine Learning Algorithms \\
+**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *Mar.2021-Dec.2022*
