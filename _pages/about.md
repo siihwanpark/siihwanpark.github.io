@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at the \href{https://mli.kaist.ac.kr/}{Machine Learning and Intelligence Lab} at KAIST, advised by \href{https://scholar.google.com/citations?user=UWO1mloAAAAJ}{Prof. Eunho Yang}.
+I am a final-year Ph.D. candidate at the <a href="https://mli.kaist.ac.kr/">Machine Learning and Intelligence Lab</a> at KAIST, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ">Prof. Eunho Yang</a>.
 
 ### Research Focus
 My research centers on efficient inference for large-scale foundation models, with a broader interest in efficient training and post-training. I primarily approach efficiency from an algorithmic perspective, but I am especially interested in methods that remain effective under real hardware and system constraints. In other words, I care not only about improving algorithmic metrics, but also about whether those improvements translate into meaningful reductions in latency, memory usage, and computational cost in realistic workloads. This perspective has naturally led me to study the interaction between algorithms and the characteristics of modern accelerators, memory hierarchies, parallel execution, and serving systems.
