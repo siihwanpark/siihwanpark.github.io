@@ -72,8 +72,7 @@ Doohyuk Jang<sup>†</sup>, **Sihwan Park<sup>†</sup>**, June Yong Yang, Yeons
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
-*ICLR 2023* \\
-*Spotlighted*
+*ICLR 2023 (Spotlight)*
 
 - <a href="../assets/papers/master_thesis.pdf">
 **On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**
