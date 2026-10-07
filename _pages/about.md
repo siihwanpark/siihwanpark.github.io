@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at the <a href="https://mli.kaist.ac.kr/">Machine Learning and Intelligence Lab</a> at KAIST, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ">Prof. Eunho Yang</a>.
+I am a final-year Ph.D. candidate at the <a href="https://mli.kaist.ac.kr/">Machine Learning and Intelligence Lab.</a> at KAIST, advised by <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ">Prof. Eunho Yang</a>.
 
 ### Research Focus
 My research centers on efficient inference for large-scale foundation models, with a broader interest in efficient training and post-training. I primarily approach efficiency from an algorithmic perspective, but I am especially interested in methods that remain effective under real hardware and system constraints. In other words, I care not only about improving algorithmic metrics, but also about whether those improvements translate into meaningful reductions in latency, memory usage, and computational cost in realistic workloads. This perspective has naturally led me to study the interaction between algorithms and the characteristics of modern accelerators, memory hierarchies, parallel execution, and serving systems.
@@ -33,7 +33,8 @@ Doohyuk Jang, Yoonsik Park, Gyouk Chu, **Sihwan Park**, Eunho Yang \\
 *Preprint (2026)*
 
 - <a href="https://aclanthology.org/2026.acl-long.172/">
-**Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge** \\
+**Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge**
+</a> \\
 Joonhyung Park<sup>†</sup>, Jaeyun Song<sup>†</sup>, **Sihwan Park**, Eunho Yang
 (<sup>†</sup>: Equal Contribution) \\
 *ACL 2026*
@@ -50,7 +51,8 @@ Joonhyung Park<sup>†</sup>, Jaeyun Song<sup>†</sup>, **Sihwan Park**, Eunho 
 </a> \\
 **Sihwan Park<sup>†</sup>**, Doohyuk Jang<sup>†</sup>, Sung-Yub Kim, Souvik Kundu, Eunho Yang
 (<sup>†</sup>: Equal Contribution) \\
-*ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (Best Paper Runner-up)*
+*ICLR 2025 Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models* \\
+*Best Paper Runner-up*
 
 - <a href="https://arxiv.org/abs/2410.03355">
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**
@@ -70,12 +72,13 @@ Doohyuk Jang<sup>†</sup>, **Sihwan Park<sup>†</sup>**, June Yong Yang, Yeons
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 Sung-Yub Kim, **Sihwan Park**, Kyungsu Kim, Eunho Yang \\
-*ICLR 2023 (Spotlighted)*
+*ICLR 2023* \\
+*Spotlighted*
 
 - <a href="../assets/papers/master_thesis.pdf">
 **On the Understanding of Sharpness-aware Minimization and its Application: A Perspective on Escape Efficiency and Asymmetric Valley**
 </a> \\
-**Sihwan Park**
+**Sihwan Park** \\
 *Master's Thesis, KAIST*
 
 - <a href="https://openreview.net/pdf?id=Mvf5zr2qs6">
