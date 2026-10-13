@@ -26,7 +26,7 @@ Looking forward, I am particularly interested in efficiency challenges arising f
 **Sihwan Park**, Sung-Yub Kim, Doohyuk Jang, Eunho Yang \\
 *Preprint (2026)*
 
-- <a href="https://arxiv.org/abs/2501.19099">
+- <a href="https://arxiv.org/abs/2609.37868">
 **Learning Beyond What You Sample: Off-Policy-Aware Cross-Model Trajectory Exchange for RLVR**
 </a> \\
 Doohyuk Jang, Yoonsik Park, Gyouk Chu, **Sihwan Park**, Eunho Yang \\
