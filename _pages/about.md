@@ -22,7 +22,9 @@ Looking forward, I am particularly interested in efficiency challenges arising f
 
 ## Publications & Research Works (Last Updated: Oct. 2026)
 
-- **KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization** \\
+- <a href="https://arxiv.org/abs/2610.14448">
+**KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization**
+</a> \\
 **Sihwan Park**, Sung-Yub Kim, Doohyuk Jang, Eunho Yang \\
 *Preprint (2026)*
 
