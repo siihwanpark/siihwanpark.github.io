@@ -22,9 +22,15 @@ Looking forward, I am particularly interested in efficiency challenges arising f
 
 ## Publications & Research Works (Last Updated: Oct. 2026)
 
-- **Understanding and Optimizing Speculative Decoding for High-Throughput LLM Inference with Linear Attention, Sparse MoE, and Low Precision** \\
+- **Revisiting Speculative Decoding for High-Throughput LLM Inference with Linear Attention, Sparse MoE, and Low Precision** \\
 Sihwan Park \\
 *Work in progress (2026)*
+<details markdown="1">
+<summary>Research Overview</summary>
+
+Recent advances in LLM architectures and deployment, including hybrid linear attention, sparse MoE, and low-precision inference, are reshaping the computational characteristics of high-throughput serving. This project revisits speculative decoding under these evolving conditions, investigating how architectural and precision changes affect its efficiency at large batch sizes. By characterizing the computational costs that speculative decoding amortizes and the additional overheads it introduces, we aim to identify practical optimization opportunities and develop techniques that improve its effectiveness in large-scale LLM serving.
+
+</details>
 
 - <a href="https://arxiv.org/abs/2610.14448">
 **KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization**
