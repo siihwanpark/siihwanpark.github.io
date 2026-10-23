@@ -22,7 +22,7 @@ Looking forward, I am particularly interested in efficiency challenges arising f
 
 ## Publications & Research Works (Last Updated: Oct. 2026)
 
-- **Understanding and Optimizing Speculative Decoding for High-Throughput LLM Inference with Linear Attention, Sparse MoE, and Low Precision** (In-progress) \\
+- **Understanding and Optimizing Speculative Decoding for High-Throughput LLM Inference with Linear Attention, Sparse MoE, and Low Precision** \\
 Sihwan Park \\
 *Work in progress (2026)*
 
